@@ -11,7 +11,6 @@
 
 
 <p align ="center">
--I'm a software engineer and Recently started 100 days of ML/AI 
 - Reach me through my email [🗨🗨](waihenyafredrick@gmail.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/fredrickwaihenya/) 
 - ⚡ Fun fact: **I am a Scorpio 🦂🦂** 
