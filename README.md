@@ -15,11 +15,7 @@
 
 <p align ="center">
 
-- Reach me through my email [🗨🗨](waihenyafredrick@gmail.com)
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/fredrickwaihenya/) 
-- ⚡ Fun fact: **I am a Scorpio 🦂🦂** 
-- 🙏 Thank You For Stopping By. 
-- 👋 Adios
+- Reach me through my email [🗨🗨](waihenyafredrick@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fredrickwaihenya/) 
 </p>
 <h2>skills in 🧠🎓 :</h2>
 <div>
